@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+            android:id="@+id/navigation_home"
+            android:icon="@drawable/round_settings_input_antenna_black_48dp"
+            android:title="Connect"/>
+    <item
+            android:id="@+id/navigation_message"
+            android:icon="@drawable/round_textsms_black_48dp"
+            android:title="Messenger"/>
+
+    <item
+            android:id="@+id/navigation_chart"
+            android:icon="@drawable/round_multiline_chart_black_48dp"
+            android:title="Data Visualiser"/>
+
+    <item
+            android:id="@+id/navigation_about"
+            android:icon="@drawable/round_info_black_48dp"
+            android:title="About"/>
+
+</menu>
